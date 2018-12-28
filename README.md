@@ -3,6 +3,9 @@
 
 ### windows屏幕色温调节
 [flux](https://github.com/chchangzh/activation-tools/blob/master/WIN7%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7_Activation.rar)
+
+### lantern：free vpn
+[lantern](https://github.com/chchangzh/activation-tools/tree/master/lantern)
 ### 百度网盘绿色版
 []()
 
