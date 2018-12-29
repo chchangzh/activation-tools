@@ -12,3 +12,6 @@
 
 ### 迅雷极速绿色版
 [迅雷极速绿色版](https://github.com/chchangzh/activation-tools/blob/master/%E8%BF%85%E9%9B%B7%E6%9E%81%E9%80%9F%E7%89%88%20v1.0.35.366%20Final%20%E5%B0%8F%E4%BF%8A.7z)
+
+### office2016激活工具
+[office激活](https://github.com/chchangzh/activation-tools/tree/master/office2016)
