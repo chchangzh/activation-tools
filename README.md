@@ -15,3 +15,12 @@
 
 ### office2016激活工具
 [office激活](https://github.com/chchangzh/activation-tools/tree/master/office2016)
+
+### everything：快速搜索电脑所有文件
+[everything](https://github.com/chchangzh/activation-tools/blob/master/Everything-1.4.1.895.x64.zip)
+
+### Pnotes：电脑桌面便签，可以设置定时
+[Pnotes](https://github.com/chchangzh/activation-tools/blob/master/PNotes_9_3_0.zip)
+
+### Snipaste：截屏工具，可以设置悬浮在窗口上方
+[Snipaste](https://github.com/chchangzh/activation-tools/blob/master/Snipaste-1.16.2-x64.zip)
