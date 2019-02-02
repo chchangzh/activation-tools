@@ -24,3 +24,6 @@
 
 ### Snipaste：截屏工具，可以设置悬浮在窗口上方
 [Snipaste](https://github.com/chchangzh/activation-tools/blob/master/Snipaste-1.16.2-x64.zip)
+
+### 小狼毫输入法：五笔+拼音，自定义背景
+[小狼毫输入法](https://github.com/chchangzh/activation-tools/blob/master/weasel-0.9.30.0-installer.exe)
