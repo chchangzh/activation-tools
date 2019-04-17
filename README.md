@@ -27,3 +27,6 @@
 
 ### 小狼毫输入法：五笔+拼音，自定义背景
 [小狼毫输入法](https://github.com/chchangzh/activation-tools/blob/master/weasel-0.9.30.0-installer.exe)
+
+### shadowsocks：翻墙梯子
+[shadowsocks](https://github.com/chchangzh/activation-tools/tree/master/shadowsocks)
