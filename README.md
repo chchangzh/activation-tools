@@ -30,3 +30,6 @@
 
 ### shadowsocks：翻墙梯子
 [shadowsocks](https://github.com/chchangzh/activation-tools/tree/master/shadowsocks)
+
+### 腾讯桌面整理软件
+[腾讯桌面整理](https://github.com/chchangzh/activation-tools/blob/master/DeskGo_2_9_1051_127_lite.exe)
