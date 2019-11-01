@@ -33,3 +33,6 @@
 
 ### 腾讯桌面整理软件
 [腾讯桌面整理](https://github.com/chchangzh/activation-tools/blob/master/DeskGo_2_9_1051_127_lite.exe)
+
+### EasyWebSvr：axure原型文件生成本地局域网访问地址
+[EasyWebSvr](https://github.com/chchangzh/activation-tools/blob/master/EasyWebSvr.rar)
